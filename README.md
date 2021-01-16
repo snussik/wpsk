@@ -44,6 +44,7 @@
 - `Yoast SEO`- чтобы убрать /category/ из url и настроить базовое SEO
 - `Permalink Manager Lite` - настройки permalinks
 - `CPT-UI` - создание кастомных типов записей
+- `Cyr-To-Lat` - нужен для перевода категорий в латиницу
 - `Advanced Custom Fields PRO` - настройка кастомных полей
 - `Classic Editor` - классический редактор в замену Gutenberg
 - `Code Snippets` - сниппеты в functions.php
@@ -54,5 +55,13 @@
 - `Hello Elementor` - стартовая тема для разработки
 
 ## Данные для разработки
-
-1. Импорт
+// ветка: `plugins_settings`
+1. Импорт custom post type из `init_scripts/catalog.json`
+2. Настройка постоянных ссылок: 
+- Permalink Manager:
+- - Записи:     `/%category%/%postname%/` 
+- - Элементы:   `/%category%/%postname%/` 
+- - Вопросы:    `/faqs/`
+- Yoast SEO -> Отображение -> Таксономии -> `Удалить префиксы рубрик`
+3. Добавление сниппетов из `init_scripts/wp-skeleton.code-snippets.json`
+4. Настройки -> Постоянные ссылки -> Произвольно -> `/%category%/%postname%/`
