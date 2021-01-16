@@ -38,3 +38,20 @@
 
 ## Восстановление дампа
 `cat ./docker/docker-entrypoint-initdb.d/init.sql | docker exec -i DBCONTAINER /usr/bin/mysql -u root --password=password exampledb`
+
+## Состав плагинов
+
+- `Yoast SEO`- чтобы убрать /category/ из url и настроить базовое SEO
+- `Permalink Manager Lite` - настройки permalinks
+- `CPT-UI` - создание кастомных типов записей
+- `Advanced Custom Fields PRO` - настройка кастомных полей
+- `Classic Editor` - классический редактор в замену Gutenberg
+- `Code Snippets` - сниппеты в functions.php
+- `WP All Import Pro` - первоначальный импорт данных
+- `WP All Import - ACF Add-On` - аддон для поддержки кастомных полей
+- `Elementor Website Builder` - билдер страниц
+- `Elementor Pro ^v3.0.8` - дополнительный функционал для билдера
+
+## Данные для разработки
+
+1. Импорт
