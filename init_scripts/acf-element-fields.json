@@ -1,0 +1,759 @@
+[
+    {
+        "key": "group_60042e1431f01",
+        "title": "Источник",
+        "fields": [
+            {
+                "key": "field_60042e1988cf5",
+                "label": "Название",
+                "name": "title",
+                "type": "text",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": "",
+                "maxlength": ""
+            },
+            {
+                "key": "field_60042e3988cf6",
+                "label": "Описание",
+                "name": "description",
+                "type": "text",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": "",
+                "maxlength": ""
+            },
+            {
+                "key": "field_60042e6b88cf7",
+                "label": "Тип",
+                "name": "type",
+                "type": "text",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": "",
+                "maxlength": ""
+            },
+            {
+                "key": "field_60042e7b88cf8",
+                "label": "Том",
+                "name": "tom",
+                "type": "text",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": "",
+                "maxlength": ""
+            },
+            {
+                "key": "field_60042e8c88cf9",
+                "label": "Издание",
+                "name": "revision",
+                "type": "text",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": "",
+                "maxlength": ""
+            },
+            {
+                "key": "field_60042ea288cfa",
+                "label": "Страниц",
+                "name": "pages",
+                "type": "text",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": "",
+                "maxlength": ""
+            },
+            {
+                "key": "field_60042ec188cfb",
+                "label": "Издатель",
+                "name": "publisher",
+                "type": "text",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": "",
+                "maxlength": ""
+            },
+            {
+                "key": "field_60042eef88cfc",
+                "label": "Год издания",
+                "name": "year",
+                "type": "number",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": 1990,
+                "placeholder": "",
+                "prepend": "",
+                "append": "",
+                "min": 1800,
+                "max": 2100,
+                "step": ""
+            },
+            {
+                "key": "field_60042f1588cfd",
+                "label": "ISBN",
+                "name": "isbn",
+                "type": "text",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": "",
+                "maxlength": ""
+            }
+        ],
+        "location": [
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "catalog"
+                }
+            ]
+        ],
+        "menu_order": 0,
+        "position": "normal",
+        "style": "default",
+        "label_placement": "top",
+        "instruction_placement": "label",
+        "hide_on_screen": "",
+        "active": true,
+        "description": ""
+    },
+    {
+        "key": "group_60042a94df4cb",
+        "title": "Металлы",
+        "fields": [
+            {
+                "key": "field_60042aa42c866",
+                "label": "Золото",
+                "name": "aurum",
+                "type": "number",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": 0,
+                "placeholder": "",
+                "prepend": "",
+                "append": "",
+                "min": 0,
+                "max": 9999,
+                "step": ""
+            },
+            {
+                "key": "field_60042b122c869",
+                "label": "Серебро",
+                "name": "argentum",
+                "type": "number",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": 0,
+                "placeholder": "",
+                "prepend": "",
+                "append": "",
+                "min": 0,
+                "max": 9999,
+                "step": ""
+            },
+            {
+                "key": "field_60042b662c86b",
+                "label": "Платина",
+                "name": "plat",
+                "type": "number",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": 0,
+                "placeholder": "",
+                "prepend": "",
+                "append": "",
+                "min": 0,
+                "max": 9999,
+                "step": ""
+            },
+            {
+                "key": "field_60042b9f2c86d",
+                "label": "Палладий",
+                "name": "palad",
+                "type": "number",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": 0,
+                "placeholder": "",
+                "prepend": "",
+                "append": "",
+                "min": 0,
+                "max": 9999,
+                "step": ""
+            },
+            {
+                "key": "field_60042be82c86f",
+                "label": "Родий",
+                "name": "rod",
+                "type": "number",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": 0,
+                "placeholder": "",
+                "prepend": "",
+                "append": "",
+                "min": 0,
+                "max": 9999,
+                "step": ""
+            },
+            {
+                "key": "field_60042bf72c870",
+                "label": "Иридий",
+                "name": "irid",
+                "type": "number",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": 0,
+                "placeholder": "",
+                "prepend": "",
+                "append": "",
+                "min": 0,
+                "max": 9999,
+                "step": ""
+            },
+            {
+                "key": "field_60042c0a2c871",
+                "label": "Рутений",
+                "name": "rut",
+                "type": "number",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": 0,
+                "placeholder": "",
+                "prepend": "",
+                "append": "",
+                "min": 0,
+                "max": 9999,
+                "step": ""
+            },
+            {
+                "key": "field_60042c222c872",
+                "label": "Индий",
+                "name": "indii",
+                "type": "number",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": 0,
+                "placeholder": "",
+                "prepend": "",
+                "append": "",
+                "min": 0,
+                "max": 9999,
+                "step": ""
+            },
+            {
+                "key": "field_60042c332c873",
+                "label": "Осмий",
+                "name": "osmii",
+                "type": "number",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": 0,
+                "placeholder": "",
+                "prepend": "",
+                "append": "",
+                "min": 0,
+                "max": 9999,
+                "step": ""
+            },
+            {
+                "key": "field_60042c422c874",
+                "label": "МПГ (сплав платиновой группы)",
+                "name": "mpg",
+                "type": "number",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": 0,
+                "placeholder": "",
+                "prepend": "",
+                "append": "",
+                "min": 0,
+                "max": 9999,
+                "step": ""
+            },
+            {
+                "key": "field_60042aec2c868",
+                "label": "Золото (возврат)",
+                "name": "aurum_vozvr",
+                "type": "number",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": 0,
+                "placeholder": "",
+                "prepend": "",
+                "append": "",
+                "min": 0,
+                "max": 9999,
+                "step": ""
+            },
+            {
+                "key": "field_60042bc72c86e",
+                "label": "Палладий (возврат)",
+                "name": "palad_vozvr",
+                "type": "number",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": 0,
+                "placeholder": "",
+                "prepend": "",
+                "append": "",
+                "min": 0,
+                "max": 9999,
+                "step": ""
+            },
+            {
+                "key": "field_60042b7c2c86c",
+                "label": "Платина (возврат)",
+                "name": "plat_vozvr",
+                "type": "number",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": 0,
+                "placeholder": "",
+                "prepend": "",
+                "append": "",
+                "min": 0,
+                "max": 9999,
+                "step": ""
+            },
+            {
+                "key": "field_60042b432c86a",
+                "label": "Серебро (возврат)",
+                "name": "argentum_vozvr",
+                "type": "number",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": 0,
+                "placeholder": "",
+                "prepend": "",
+                "append": "",
+                "min": 0,
+                "max": 9999,
+                "step": ""
+            }
+        ],
+        "location": [
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "catalog"
+                }
+            ]
+        ],
+        "menu_order": 0,
+        "position": "normal",
+        "style": "default",
+        "label_placement": "top",
+        "instruction_placement": "label",
+        "hide_on_screen": "",
+        "active": true,
+        "description": ""
+    },
+    {
+        "key": "group_60042f8a7230f",
+        "title": "Примечания",
+        "fields": [
+            {
+                "key": "field_60042f91fc065",
+                "label": "REM",
+                "name": "rem",
+                "type": "text",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": "",
+                "maxlength": ""
+            },
+            {
+                "key": "field_60042faafc067",
+                "label": "REMARKS",
+                "name": "remarks",
+                "type": "text",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": "",
+                "maxlength": ""
+            }
+        ],
+        "location": [
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "catalog"
+                }
+            ]
+        ],
+        "menu_order": 0,
+        "position": "normal",
+        "style": "default",
+        "label_placement": "top",
+        "instruction_placement": "label",
+        "hide_on_screen": "",
+        "active": true,
+        "description": ""
+    },
+    {
+        "key": "group_60042cb56d4bf",
+        "title": "Электро",
+        "fields": [
+            {
+                "key": "field_60042cd27b372",
+                "label": "Экран",
+                "name": "ekran",
+                "type": "text",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": "",
+                "maxlength": ""
+            },
+            {
+                "key": "field_60042d0e7b373",
+                "label": "Диаметр проводов",
+                "name": "diam_prov",
+                "type": "number",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": 0,
+                "placeholder": "",
+                "prepend": "",
+                "append": "",
+                "min": 0,
+                "max": 9990,
+                "step": ""
+            },
+            {
+                "key": "field_60042d3a7b374",
+                "label": "Число жил",
+                "name": "ch_jil",
+                "type": "number",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": 0,
+                "placeholder": "",
+                "prepend": "",
+                "append": "",
+                "min": 0,
+                "max": 999,
+                "step": ""
+            },
+            {
+                "key": "field_60042d517b375",
+                "label": "Материал жил",
+                "name": "mat_jil",
+                "type": "text",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": "",
+                "maxlength": ""
+            },
+            {
+                "key": "field_60042d687b376",
+                "label": "Плотность оплётки",
+                "name": "plotn_opl",
+                "type": "text",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": "",
+                "maxlength": ""
+            },
+            {
+                "key": "field_60042d837b377",
+                "label": "Проводов в жиле",
+                "name": "prov_v_zhile",
+                "type": "number",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": 0,
+                "placeholder": "",
+                "prepend": "",
+                "append": "",
+                "min": 0,
+                "max": 99999,
+                "step": ""
+            },
+            {
+                "key": "field_60042dad7b378",
+                "label": "Сечение жил",
+                "name": "sech_jil",
+                "type": "number",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": 0,
+                "placeholder": "",
+                "prepend": "",
+                "append": "",
+                "min": 0,
+                "max": 99999,
+                "step": ""
+            },
+            {
+                "key": "field_60042dc47b379",
+                "label": "Количество деталей",
+                "name": "koldet",
+                "type": "text",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "default_value": "",
+                "placeholder": "",
+                "prepend": "",
+                "append": "",
+                "maxlength": ""
+            }
+        ],
+        "location": [
+            [
+                {
+                    "param": "post_type",
+                    "operator": "==",
+                    "value": "catalog"
+                }
+            ]
+        ],
+        "menu_order": 0,
+        "position": "normal",
+        "style": "default",
+        "label_placement": "top",
+        "instruction_placement": "label",
+        "hide_on_screen": "",
+        "active": true,
+        "description": ""
+    }
+]
