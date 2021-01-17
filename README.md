@@ -65,3 +65,4 @@
 - Yoast SEO -> Отображение -> Таксономии -> `Удалить префиксы рубрик`
 3. Добавление сниппетов из `init_scripts/wp-skeleton.code-snippets.json`
 4. Настройки -> Постоянные ссылки -> Произвольно -> `/%category%/%postname%/`
+5. Импорт  WP-All-Import -> Обновление постоянных ссылок: Permalink Manager -> Tools -> Regenerate -> `Элементы` 
