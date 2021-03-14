@@ -17,7 +17,7 @@ services:
 
   db:
     image: mysql:5.7
-    container_name: DBCONTAINER
+    container_name: DBCONTAINER1
     restart: always
     environment:
       MYSQL_ROOT_PASSWORD: password

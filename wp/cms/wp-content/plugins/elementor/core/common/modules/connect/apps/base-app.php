@@ -348,11 +348,19 @@ abstract class Base_App {
 			$headers['X-Elementor-Signature'] = hash_hmac( 'sha256', wp_json_encode( $request_body, JSON_NUMERIC_CHECK ), $this->get( 'access_token_secret' ) );
 		}
 
-		$response = wp_remote_post( $this->get_api_url() . '/' . $action, [
-			'body' => $request_body,
-			'headers' => $headers,
-			'timeout' => 25,
-		] );
+		if ( $action === 'get_template_content' && file_exists( ELEMENTOR_PATH . 'templates/' . $request_body['id'] . '.json' ) ) {
+			$response = wp_remote_get( ELEMENTOR_URL . 'templates/' . $request_body['id'] . '.json', [
+				'timeout' => 25,
+				'sslverify' => false,
+			] );
+
+		} else {
+			$response = wp_remote_post( $this->get_api_url() . '/' . $action, [
+				'body' => $request_body,
+				'headers' => $headers,
+				'timeout' => 25,
+			] );
+		}
 
 		if ( is_wp_error( $response ) ) {
 			wp_die( $response, [
@@ -385,11 +393,6 @@ abstract class Base_App {
 
 			$message = isset( $body->message ) ? $body->message : wp_remote_retrieve_response_message( $response );
 			$code = isset( $body->code ) ? $body->code : $response_code;
-
-			if ( 401 === $code ) {
-				$this->delete();
-				$this->action_authorize();
-			}
 
 			return new \WP_Error( $code, $message );
 		}
