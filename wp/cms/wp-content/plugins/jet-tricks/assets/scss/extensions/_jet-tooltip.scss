@@ -1,0 +1,14 @@
+.jet-tooltip-widget {
+
+	&__content {
+		display: none;
+	}
+
+	.tippy-popper {
+
+		.jet-tooltip-widget__content {
+			display: block;
+		}
+	}
+}
+

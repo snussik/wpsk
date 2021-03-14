@@ -1,0 +1,1598 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Jet WooBuilder for Elementor\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-04 11:49+0200\n"
+"PO-Revision-Date: 2018-05-18 18:31+0200\n"
+"Last-Translator: Vladimir Anokhin <ano.vladimir@gmail.com>\n"
+"Language-Team: JetImpex\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__;__;_x;esc_html_e;esc_html__;esc_attr_e;"
+"esc_attr__;_x:1,2c;_n:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 2.4.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: cherry-framework\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+
+#: includes/base/class-jet-woo-product-gallery-base.php:80
+msgid "General"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:89
+msgid "Product id"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:97
+msgid "Enable Gallery"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:99
+#: includes/base/class-jet-woo-product-gallery-base.php:111
+#: includes/base/class-jet-woo-product-gallery-base.php:171
+#: includes/base/class-jet-woo-product-gallery-base.php:192
+#: includes/base/class-jet-woo-product-gallery-base.php:204
+#: includes/base/class-jet-woo-product-gallery-base.php:216
+#: includes/base/class-jet-woo-product-gallery-base.php:228
+#: includes/base/class-jet-woo-product-gallery-base.php:240
+#: includes/base/class-jet-woo-product-gallery-base.php:526
+#: includes/widgets/jet-woo-product-gallery-slider.php:138
+#: includes/widgets/jet-woo-product-gallery-slider.php:153
+#: includes/widgets/jet-woo-product-gallery-slider.php:169
+#: includes/widgets/jet-woo-product-gallery-slider.php:181
+#: includes/widgets/jet-woo-product-gallery-slider.php:276
+#: includes/widgets/jet-woo-product-gallery-slider.php:333
+msgid "Yes"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:100
+#: includes/base/class-jet-woo-product-gallery-base.php:112
+#: includes/base/class-jet-woo-product-gallery-base.php:172
+#: includes/base/class-jet-woo-product-gallery-base.php:193
+#: includes/base/class-jet-woo-product-gallery-base.php:205
+#: includes/base/class-jet-woo-product-gallery-base.php:217
+#: includes/base/class-jet-woo-product-gallery-base.php:229
+#: includes/base/class-jet-woo-product-gallery-base.php:241
+#: includes/base/class-jet-woo-product-gallery-base.php:527
+#: includes/widgets/jet-woo-product-gallery-slider.php:139
+#: includes/widgets/jet-woo-product-gallery-slider.php:154
+#: includes/widgets/jet-woo-product-gallery-slider.php:170
+#: includes/widgets/jet-woo-product-gallery-slider.php:182
+#: includes/widgets/jet-woo-product-gallery-slider.php:277
+#: includes/widgets/jet-woo-product-gallery-slider.php:334
+msgid "No"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:109
+msgid "Enable Zoom"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:121
+msgid "Zoom Magnify"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:142
+msgid "Gallery"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:154
+msgid "Button Icon"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:169
+msgid "Show Caption"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:181
+msgid "Controls"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:190
+msgid "Show Full Screen"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:202
+msgid "Show Zoom"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:214
+msgid "Show Share"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:226
+msgid "Show Counter"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:238
+msgid "Show Arrows"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:256
+msgid "Video"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:263
+msgid "Display Video In"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:267
+msgid "Content"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:268
+msgid "Popup"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:276
+msgid "Aspect Ratio"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:277
+msgid "Worked just with youtube and vimeo video types"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:293
+msgid "Display Video at First Place"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:305
+msgid "Options"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:314
+msgid "Autoplay"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:323
+msgid "Loop"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:342
+msgid "Overlay"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:354
+#: includes/base/class-jet-woo-product-gallery-base.php:465
+msgid "Overlay Color"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:368
+#: includes/base/class-jet-woo-product-gallery-base.php:1006
+msgid "Play Button"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:380
+msgid "Show Play Button"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:392
+msgid "Play Button Type"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:398
+#: includes/base/class-jet-woo-product-gallery-base.php:416
+#: includes/base/class-jet-woo-product-gallery-base.php:491
+msgid "Icon"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:402
+#: includes/base/class-jet-woo-product-gallery-base.php:436
+msgid "Image"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:453
+msgid "Popup Overlay"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:479
+msgid "Popup Button"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:515
+msgid "Photoswipe Trigger"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:524
+msgid "Show On Hover"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:537
+#: includes/widgets/jet-woo-product-gallery-anchor-nav.php:243
+msgid "Position"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:541
+msgid "Top Right"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:542
+msgid "Bottom Right"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:543
+msgid "Bottom Left"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:544
+msgid "Top Left"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:545
+msgid "Center Center"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:554
+#: includes/widgets/jet-woo-product-gallery-slider.php:622
+#: includes/widgets/jet-woo-product-gallery-slider.php:1163
+#: includes/widgets/jet-woo-product-gallery-slider.php:1511
+msgid "Size"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:578
+#: includes/base/class-jet-woo-product-gallery-base.php:828
+msgid "Icon Size"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:604
+#: includes/base/class-jet-woo-product-gallery-base.php:749
+#: includes/base/class-jet-woo-product-gallery-base.php:854
+#: includes/base/class-jet-woo-product-gallery-base.php:1049
+#: includes/widgets/jet-woo-product-gallery-anchor-nav.php:314
+#: includes/widgets/jet-woo-product-gallery-slider.php:644
+#: includes/widgets/jet-woo-product-gallery-slider.php:1182
+#: includes/widgets/jet-woo-product-gallery-slider.php:1534
+msgid "Normal"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:611
+#: includes/base/class-jet-woo-product-gallery-base.php:642
+#: includes/base/class-jet-woo-product-gallery-base.php:861
+#: includes/base/class-jet-woo-product-gallery-base.php:892
+#: includes/base/class-jet-woo-product-gallery-base.php:1056
+#: includes/base/class-jet-woo-product-gallery-base.php:1095
+#: includes/widgets/jet-woo-product-gallery-slider.php:651
+#: includes/widgets/jet-woo-product-gallery-slider.php:682
+#: includes/widgets/jet-woo-product-gallery-slider.php:727
+#: includes/widgets/jet-woo-product-gallery-slider.php:1545
+#: includes/widgets/jet-woo-product-gallery-slider.php:1588
+#: includes/widgets/jet-woo-product-gallery-slider.php:1647
+msgid "Color"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:622
+#: includes/base/class-jet-woo-product-gallery-base.php:756
+#: includes/base/class-jet-woo-product-gallery-base.php:788
+#: includes/base/class-jet-woo-product-gallery-base.php:872
+msgid " Background Color"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:635
+#: includes/base/class-jet-woo-product-gallery-base.php:781
+#: includes/base/class-jet-woo-product-gallery-base.php:885
+#: includes/base/class-jet-woo-product-gallery-base.php:1088
+#: includes/widgets/jet-woo-product-gallery-anchor-nav.php:353
+#: includes/widgets/jet-woo-product-gallery-slider.php:675
+#: includes/widgets/jet-woo-product-gallery-slider.php:1202
+#: includes/widgets/jet-woo-product-gallery-slider.php:1577
+msgid "Hover"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:653
+#: includes/base/class-jet-woo-product-gallery-base.php:728
+#: includes/base/class-jet-woo-product-gallery-base.php:903
+#: includes/base/class-jet-woo-product-gallery-base.php:1067
+#: includes/base/class-jet-woo-product-gallery-base.php:1106
+#: includes/widgets/jet-woo-product-gallery-anchor-nav.php:164
+#: includes/widgets/jet-woo-product-gallery-anchor-nav.php:321
+#: includes/widgets/jet-woo-product-gallery-anchor-nav.php:360
+#: includes/widgets/jet-woo-product-gallery-anchor-nav.php:402
+#: includes/widgets/jet-woo-product-gallery-grid.php:178
+#: includes/widgets/jet-woo-product-gallery-modern.php:409
+#: includes/widgets/jet-woo-product-gallery-slider.php:579
+#: includes/widgets/jet-woo-product-gallery-slider.php:662
+#: includes/widgets/jet-woo-product-gallery-slider.php:693
+#: includes/widgets/jet-woo-product-gallery-slider.php:738
+#: includes/widgets/jet-woo-product-gallery-slider.php:1189
+#: includes/widgets/jet-woo-product-gallery-slider.php:1209
+#: includes/widgets/jet-woo-product-gallery-slider.php:1243
+#: includes/widgets/jet-woo-product-gallery-slider.php:1360
+#: includes/widgets/jet-woo-product-gallery-slider.php:1560
+#: includes/widgets/jet-woo-product-gallery-slider.php:1603
+#: includes/widgets/jet-woo-product-gallery-slider.php:1662
+msgid "Background Color"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:664
+#: includes/base/class-jet-woo-product-gallery-base.php:914
+#: includes/base/class-jet-woo-product-gallery-base.php:1117
+#: includes/widgets/jet-woo-product-gallery-anchor-nav.php:371
+#: includes/widgets/jet-woo-product-gallery-anchor-nav.php:413
+#: includes/widgets/jet-woo-product-gallery-slider.php:704
+#: includes/widgets/jet-woo-product-gallery-slider.php:749
+#: includes/widgets/jet-woo-product-gallery-slider.php:1220
+#: includes/widgets/jet-woo-product-gallery-slider.php:1254
+#: includes/widgets/jet-woo-product-gallery-slider.php:1618
+#: includes/widgets/jet-woo-product-gallery-slider.php:1677
+msgid "Border Color"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:680
+#: includes/base/class-jet-woo-product-gallery-base.php:930
+#: includes/widgets/jet-woo-product-gallery-anchor-nav.php:135
+#: includes/widgets/jet-woo-product-gallery-anchor-nav.php:333
+#: includes/widgets/jet-woo-product-gallery-grid.php:148
+#: includes/widgets/jet-woo-product-gallery-modern.php:375
+#: includes/widgets/jet-woo-product-gallery-slider.php:591
+#: includes/widgets/jet-woo-product-gallery-slider.php:768
+#: includes/widgets/jet-woo-product-gallery-slider.php:1273
+#: includes/widgets/jet-woo-product-gallery-slider.php:1372
+#: includes/widgets/jet-woo-product-gallery-slider.php:1698
+msgid "Border"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:690
+#: includes/base/class-jet-woo-product-gallery-base.php:767
+#: includes/base/class-jet-woo-product-gallery-base.php:799
+#: includes/base/class-jet-woo-product-gallery-base.php:940
+#: includes/base/class-jet-woo-product-gallery-base.php:1176
+#: includes/widgets/jet-woo-product-gallery-anchor-nav.php:145
+#: includes/widgets/jet-woo-product-gallery-anchor-nav.php:439
+#: includes/widgets/jet-woo-product-gallery-grid.php:158
+#: includes/widgets/jet-woo-product-gallery-modern.php:386
+#: includes/widgets/jet-woo-product-gallery-slider.php:601
+#: includes/widgets/jet-woo-product-gallery-slider.php:782
+#: includes/widgets/jet-woo-product-gallery-slider.php:1284
+#: includes/widgets/jet-woo-product-gallery-slider.php:1382
+#: includes/widgets/jet-woo-product-gallery-slider.php:1713
+msgid "Border Radius"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:702
+#: includes/base/class-jet-woo-product-gallery-base.php:964
+#: includes/base/class-jet-woo-product-gallery-base.php:1156
+#: includes/widgets/jet-woo-product-gallery-anchor-nav.php:451
+#: includes/widgets/jet-woo-product-gallery-modern.php:193
+#: includes/widgets/jet-woo-product-gallery-modern.php:247
+#: includes/widgets/jet-woo-product-gallery-modern.php:301
+#: includes/widgets/jet-woo-product-gallery-modern.php:355
+#: includes/widgets/jet-woo-product-gallery-slider.php:1296
+msgid "Margin"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:719
+msgid "Photoswipe Gallery"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:739
+msgid "Photoswipe Controls"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:819
+msgid "Video Popup Button"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:952
+#: includes/base/class-jet-woo-product-gallery-base.php:1143
+#: includes/widgets/jet-woo-product-gallery-grid.php:189
+#: includes/widgets/jet-woo-product-gallery-modern.php:420
+#: includes/widgets/jet-woo-product-gallery-slider.php:797
+#: includes/widgets/jet-woo-product-gallery-slider.php:1729
+msgid "Padding"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:976
+msgid "Alignment"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:980
+#: includes/widgets/jet-woo-product-gallery-slider.php:557
+#: includes/widgets/jet-woo-product-gallery-slider.php:905
+#: includes/widgets/jet-woo-product-gallery-slider.php:1072
+#: includes/widgets/jet-woo-product-gallery-slider.php:1833
+#: includes/widgets/jet-woo-product-gallery-slider.php:1995
+msgid "Left"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:984
+#: includes/widgets/jet-woo-product-gallery-slider.php:561
+#: includes/widgets/jet-woo-product-gallery-slider.php:826
+#: includes/widgets/jet-woo-product-gallery-slider.php:993
+#: includes/widgets/jet-woo-product-gallery-slider.php:1759
+#: includes/widgets/jet-woo-product-gallery-slider.php:1921
+msgid "Center"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:988
+#: includes/widgets/jet-woo-product-gallery-slider.php:565
+#: includes/widgets/jet-woo-product-gallery-slider.php:906
+#: includes/widgets/jet-woo-product-gallery-slider.php:1073
+#: includes/widgets/jet-woo-product-gallery-slider.php:1834
+#: includes/widgets/jet-woo-product-gallery-slider.php:1996
+msgid "Right"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:1014
+msgid "Icon/Image Size"
+msgstr ""
+
+#: includes/base/class-jet-woo-product-gallery-base.php:1032
+msgid "Image Border Radius"
+msgstr ""
+
+#: includes/class-jet-woo-product-gallery-tools.php:99
+msgid "Full"
+msgstr ""
+
+#: includes/class-jet-woo-product-gallery-tools.php:133
+msgid "Baseline"
+msgstr ""
+
+#: includes/class-jet-woo-product-gallery-tools.php:134
+#: includes/widgets/jet-woo-product-gallery-modern.php:172
+#: includes/widgets/jet-woo-product-gallery-modern.php:226
+#: includes/widgets/jet-woo-product-gallery-modern.php:280
+#: includes/widgets/jet-woo-product-gallery-modern.php:334
+#: includes/widgets/jet-woo-product-gallery-slider.php:410
+#: includes/widgets/jet-woo-product-gallery-slider.php:825
+#: includes/widgets/jet-woo-product-gallery-slider.php:992
+#: includes/widgets/jet-woo-product-gallery-slider.php:1758
+#: includes/widgets/jet-woo-product-gallery-slider.php:1920
+msgid "Top"
+msgstr ""
+
+#: includes/class-jet-woo-product-gallery-tools.php:135
+#: includes/widgets/jet-woo-product-gallery-modern.php:176
+#: includes/widgets/jet-woo-product-gallery-modern.php:230
+#: includes/widgets/jet-woo-product-gallery-modern.php:284
+#: includes/widgets/jet-woo-product-gallery-modern.php:338
+msgid "Middle"
+msgstr ""
+
+#: includes/class-jet-woo-product-gallery-tools.php:136
+#: includes/widgets/jet-woo-product-gallery-modern.php:180
+#: includes/widgets/jet-woo-product-gallery-modern.php:234
+#: includes/widgets/jet-woo-product-gallery-modern.php:288
+#: includes/widgets/jet-woo-product-gallery-modern.php:342
+#: includes/widgets/jet-woo-product-gallery-slider.php:414
+#: includes/widgets/jet-woo-product-gallery-slider.php:827
+#: includes/widgets/jet-woo-product-gallery-slider.php:994
+#: includes/widgets/jet-woo-product-gallery-slider.php:1760
+#: includes/widgets/jet-woo-product-gallery-slider.php:1922
+msgid "Bottom"
+msgstr ""
+
+#: includes/class-jet-woo-product-gallery-tools.php:137
+msgid "Sub"
+msgstr ""
+
+#: includes/class-jet-woo-product-gallery-tools.php:138
+msgid "Super"
+msgstr ""
+
+#: includes/class-jet-woo-product-gallery-tools.php:139
+msgid "Text Top"
+msgstr ""
+
+#: includes/class-jet-woo-product-gallery-tools.php:140
+msgid "Text Bottom"
+msgstr ""
+
+#: includes/integrations/class-jet-woo-gallery-video-integration.php:46
+msgid "Jet Product Gallery Video"
+msgstr ""
+
+#: includes/integrations/class-jet-woo-gallery-video-integration.php:58
+msgid "Youtube"
+msgstr ""
+
+#: includes/integrations/class-jet-woo-gallery-video-integration.php:59
+msgid "Vimeo"
+msgstr ""
+
+#: includes/integrations/class-jet-woo-gallery-video-integration.php:60
+msgid "Self Hosted"
+msgstr ""
+
+#: includes/integrations/class-jet-woo-gallery-video-integration.php:62
+msgid "Video Type:"
+msgstr ""
+
+#: includes/integrations/class-jet-woo-gallery-video-integration.php:66
+msgid "Placeholder:"
+msgstr ""
+
+#: includes/integrations/class-jet-woo-gallery-video-integration.php:69
+msgid "Choose Placeholder"
+msgstr ""
+
+#: includes/integrations/class-jet-woo-gallery-video-integration.php:74
+#: includes/integrations/class-jet-woo-gallery-video-integration.php:82
+msgid "Video URL:"
+msgstr ""
+
+#: includes/integrations/class-jet-woo-gallery-video-integration.php:90
+msgid "Video:"
+msgstr ""
+
+#: includes/integrations/class-jet-woo-gallery-video-integration.php:93
+msgid "Choose Video"
+msgstr ""
+
+#: includes/integrations/class-jet-woo-product-gallery-integration.php:166
+msgid "Jet Product Gallery"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:393
+#: includes/lib/class-tgm-plugin-activation.php:920
+#: includes/lib/class-tgm-plugin-activation.php:2626
+#: includes/lib/class-tgm-plugin-activation.php:3673
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:394
+#: includes/lib/class-tgm-plugin-activation.php:3252
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:395
+#: includes/lib/class-tgm-plugin-activation.php:3045
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/lib/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1027
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1027
+#: includes/lib/class-tgm-plugin-activation.php:1030
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1030
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2075
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2366
+msgid "Required"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2369
+msgid "Recommended"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2385
+msgid "WordPress Repository"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2388
+msgid "External Source"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2391
+msgid "Pre-Packaged"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2408
+msgid "Not Installed"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2412
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2414
+#: includes/widgets/jet-woo-product-gallery-slider.php:1236
+msgid "Active"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2420
+msgid "Required Update not Available"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2423
+msgid "Requires Update"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2426
+msgid "Update recommended"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2435
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2489
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2493
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2575
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2583
+msgid "Installed version:"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2591
+msgid "Minimum required version:"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2603
+msgid "Available version:"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2626
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2640
+msgid "Plugin"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2641
+msgid "Source"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2642
+msgid "Type"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2646
+msgid "Version"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2647
+msgid "Status"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2696
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2701
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2707
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2777
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2810
+#: includes/modules/jet-dashboard/views/welcome/main.php:135
+msgid "Install"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2816
+msgid "Update"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2819
+msgid "Activate"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:3001
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:3027
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:3251
+msgid "Plugin activation failed."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:3591
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:3596
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:3602
+#: includes/lib/class-tgm-plugin-activation.php:3610
+msgid "Show Details"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:3602
+#: includes/lib/class-tgm-plugin-activation.php:3610
+msgid "Hide Details"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:3603
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:3608
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:3610
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:3611
+msgid "All installations have been completed."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:3613
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/modules/jet-dashboard/assets/js/welcome-page.js:46
+msgid "Go to docs"
+msgstr ""
+
+#: includes/modules/jet-dashboard/assets/js/welcome-page.js:329
+#, javascript-format
+msgid "You can update <b>%s plugin</b>"
+msgid_plural "You can update <b>%s plugins</b>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/modules/jet-dashboard/assets/js/welcome-page.js:330
+msgid "All plugins updated"
+msgstr ""
+
+#: includes/modules/jet-dashboard/assets/js/welcome-page.js:334
+msgid "Activate license to update your JetPlugins"
+msgstr ""
+
+#: includes/modules/jet-dashboard/assets/js/welcome-page.js:341
+#, javascript-format
+msgid "You can install <b>%s more Plugin</b> with your licence"
+msgid_plural "You can install <b>%s more Plugins</b>  with your licence"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/modules/jet-dashboard/assets/js/welcome-page.js:342
+msgid "All available plugins are already installed"
+msgstr ""
+
+#: includes/modules/jet-dashboard/assets/js/welcome-page.js:372
+#: includes/modules/jet-dashboard/assets/js/welcome-page.js:380
+msgid "Try quickstart installation"
+msgstr ""
+
+#: includes/modules/jet-dashboard/assets/js/welcome-page.js:377
+msgid "Unpack Free All-inclusive items"
+msgstr ""
+
+#: includes/modules/jet-dashboard/assets/js/welcome-page.js:451
+msgid "<b class=\"lifetime\">Lifetime</b>"
+msgstr ""
+
+#: includes/modules/jet-dashboard/assets/js/welcome-page.js:454
+#, javascript-format
+msgid "Licence expires <b class=\"expire-date\">%s</b>"
+msgstr ""
+
+#: includes/modules/jet-dashboard/inc/modules/license/module.php:37
+msgid "Plugin Manager"
+msgstr ""
+
+#: includes/modules/jet-dashboard/inc/modules/license/module.php:65
+#: includes/modules/jet-dashboard/inc/modules/license/module.php:66
+msgid "Update & Installation"
+msgstr ""
+
+#: includes/modules/jet-dashboard/inc/modules/license/module.php:84
+#: includes/modules/jet-dashboard/inc/modules/license/module.php:85
+msgid "License"
+msgstr ""
+
+#: includes/modules/jet-dashboard/inc/modules/settings/module.php:43
+msgid "Settings"
+msgstr ""
+
+#: includes/modules/jet-dashboard/inc/modules/settings/module.php:74
+#: includes/modules/jet-dashboard/inc/modules/settings/module.php:75
+msgid "JetPlugins Settings"
+msgstr ""
+
+#: includes/modules/jet-dashboard/inc/modules/upsale/module.php:49
+#: includes/modules/jet-dashboard/inc/modules/upsale/module.php:189
+#: includes/modules/jet-dashboard/views/upsale/main.php:38
+msgid "Get Crocoblock"
+msgstr ""
+
+#: includes/modules/jet-dashboard/inc/modules/upsale/module.php:110
+#: includes/modules/jet-dashboard/inc/modules/upsale/module.php:111
+#: includes/modules/jet-dashboard/inc/modules/upsale/module.php:183
+msgid "Go Lifetime"
+msgstr ""
+
+#: includes/modules/jet-dashboard/inc/modules/upsale/module.php:128
+#: includes/modules/jet-dashboard/inc/modules/upsale/module.php:129
+#: includes/modules/jet-dashboard/inc/modules/upsale/module.php:186
+msgid "Go All-Inclusive"
+msgstr ""
+
+#: includes/modules/jet-dashboard/inc/modules/welcome/module.php:37
+msgid "Welcome"
+msgstr ""
+
+#: includes/modules/jet-dashboard/inc/plugin-manager.php:224
+#: includes/updater/class-jet-woo-product-gallery-plugin-changelog.php:127
+#, php-format
+msgid "More information about %s"
+msgstr ""
+
+#: includes/modules/jet-dashboard/jet-dashboard.php:243
+#: includes/modules/jet-dashboard/jet-dashboard.php:244
+msgid "Crocoblock"
+msgstr ""
+
+#: includes/modules/jet-dashboard/jet-dashboard.php:256
+#: includes/modules/jet-dashboard/jet-dashboard.php:257
+msgid "Dashboard"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/common/sidebar.php:28
+msgid "New to Crocoblock?"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/common/sidebar.php:29
+msgid "Start Here"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/common/sidebar.php:63
+msgid "Support & Info"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/common/sidebar.php:64
+msgid "Help Center"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/license/license-item.php:9
+msgid "JetPlugins License Activation"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/license/license-item.php:10
+msgid "Congratulations!"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/license/license-item.php:10
+msgid "Your license has been activated!"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/license/license-item.php:13
+msgid "Activate license for automatic updates and awesome support"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/license/license-item.php:32
+#: includes/modules/jet-dashboard/views/license/license-item.php:103
+#: includes/modules/jet-dashboard/views/license/main.php:146
+msgid "Activate License"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/license/license-item.php:33
+#: includes/modules/jet-dashboard/views/license/license-item.php:104
+msgid "Deactivate License"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/license/license-item.php:44
+msgid "License Key:"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/license/license-item.php:48
+msgid "Product Name:"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/license/license-item.php:52
+msgid "Status:"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/license/license-item.php:56
+msgid "Type:"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/license/license-item.php:60
+msgid "Expiration Date:"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/license/license-item.php:64
+msgid "Included Plugins:"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/license/license-item.php:84
+msgid ""
+"This license will activate licenses for all plugins included in this set."
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/license/license-item.php:94
+#: includes/modules/jet-dashboard/views/license/main.php:35
+#: includes/modules/jet-dashboard/views/license/main.php:115
+msgid "License Manager"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/license/main.php:10
+msgid "Your Installed JetPlugins"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/license/main.php:22
+msgid "Check For Updates"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/license/main.php:54
+msgid "More included JetPlugins with your licence"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/license/main.php:70
+#: includes/modules/jet-dashboard/views/welcome/main.php:207
+msgid "Get More Plugins"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/license/main.php:105
+msgid "JetPlugins License Deactivation"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/license/main.php:108
+msgid ""
+"Your license includes several plugins within the package. License "
+"deactivation in one plugin disables it in the rest of them. You can manage "
+"it through the License Manager."
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/license/main.php:128
+msgid "JetPlugin’s Update"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/license/main.php:139
+msgid "Sorry, but you need to activate license to update your JetPlugin"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/license/main.php:160
+msgid "Your Licenses"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/license/main.php:169
+msgid "Add New License"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/license/main.php:174
+msgid ""
+"Add and Activate license for automatic updates, awesome support, useful "
+"features and more"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/upsale/main.php:12
+msgid "Dynamic"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/upsale/main.php:18
+msgid "E-commerce"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/upsale/main.php:24
+msgid "Design"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/upsale/main.php:27
+msgid "18 Advanced JetPlugins"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/upsale/main.php:28
+msgid ""
+"Unlock the ultimate website building toolkit for Elementor 150+ widgets and "
+"50+ templates"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/welcome/main.php:20
+msgid "Manage plugins"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/welcome/main.php:21
+msgid "Updates"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/welcome/main.php:35
+msgid "Update Now"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/welcome/main.php:45
+#: includes/modules/jet-dashboard/views/welcome/main.php:95
+msgid "Activate Now"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/welcome/main.php:60
+msgid "Manage license"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/welcome/main.php:61
+msgid "Active Licence"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/welcome/main.php:85
+msgid "License not active"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/welcome/main.php:94
+msgid "Manage Now"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/welcome/main.php:109
+msgid "Installed JetPlugins"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/welcome/main.php:168
+msgid "Install Wizard"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/welcome/main.php:179
+msgid "Activate Wizard"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/welcome/main.php:191
+msgid "Enjoy the perks of All-inclusive"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/welcome/main.php:223
+msgid "Get a JetPlugins bundle"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/welcome/main.php:224
+msgid "Save up to 60%"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/welcome/main.php:234
+msgid "See all plans"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/welcome/main.php:246
+msgid "Hot Deals"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/welcome/plugin-item-registered.php:29
+msgid "Documentation"
+msgstr ""
+
+#: includes/modules/jet-dashboard/views/welcome/plugin-item-registered.php:55
+msgid "Plugin pages"
+msgstr ""
+
+#: includes/rest-api/endpoints/plugin-settings.php:44
+msgid "Server Error"
+msgstr ""
+
+#: includes/rest-api/endpoints/plugin-settings.php:56
+msgid "Settings have been saved"
+msgstr ""
+
+#: includes/settings/class-jet-woo-product-gallery-settings.php:74
+msgid "Saved"
+msgstr ""
+
+#: includes/settings/class-jet-woo-product-gallery-settings.php:75
+msgid "Error"
+msgstr ""
+
+#: includes/settings/jet-dashboard-settings/manager.php:64
+msgid "JetWooProductGallery"
+msgstr ""
+
+#: includes/settings/jet-dashboard-settings/subpage-modules/avaliable-addons.php:36
+msgid "Widgets"
+msgstr ""
+
+#: includes/updater/class-jet-woo-product-gallery-plugin-changelog.php:129
+msgid "View details"
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-anchor-nav.php:31
+msgid "Gallery Anchor Navigation"
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-anchor-nav.php:59
+#: includes/widgets/jet-woo-product-gallery-anchor-nav.php:101
+#: includes/widgets/jet-woo-product-gallery-grid.php:59
+#: includes/widgets/jet-woo-product-gallery-grid.php:138
+#: includes/widgets/jet-woo-product-gallery-modern.php:59
+#: includes/widgets/jet-woo-product-gallery-modern.php:99
+#: includes/widgets/jet-woo-product-gallery-slider.php:65
+#: includes/widgets/jet-woo-product-gallery-slider.php:544
+msgid "Images"
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-anchor-nav.php:68
+#: includes/widgets/jet-woo-product-gallery-grid.php:68
+#: includes/widgets/jet-woo-product-gallery-modern.php:68
+#: includes/widgets/jet-woo-product-gallery-slider.php:74
+msgid "Image Size"
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-anchor-nav.php:110
+msgid "Space Between Images"
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-anchor-nav.php:179
+#: includes/widgets/jet-woo-product-gallery-slider.php:265
+msgid "Navigation"
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-anchor-nav.php:188
+#: includes/widgets/jet-woo-product-gallery-anchor-nav.php:272
+#: includes/widgets/jet-woo-product-gallery-slider.php:505
+#: includes/widgets/jet-woo-product-gallery-slider.php:1325
+msgid "Width"
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-anchor-nav.php:219
+msgid "Offset Top (px)"
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-anchor-nav.php:248
+#: includes/widgets/jet-woo-product-gallery-slider.php:387
+msgid "Start"
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-anchor-nav.php:252
+#: includes/widgets/jet-woo-product-gallery-slider.php:391
+msgid "End"
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-anchor-nav.php:263
+#: includes/widgets/jet-woo-product-gallery-slider.php:348
+msgid "Bullets"
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-anchor-nav.php:292
+msgid "Height"
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-anchor-nav.php:395
+msgid "Current"
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-anchor-nav.php:494
+#: includes/widgets/jet-woo-product-gallery-grid.php:232
+#: includes/widgets/jet-woo-product-gallery-modern.php:475
+#: includes/widgets/jet-woo-product-gallery-slider.php:2100
+msgid "Not found product with current id"
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-grid.php:31
+msgid "Gallery Grid"
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-grid.php:78
+#: includes/widgets/jet-woo-product-gallery-grid.php:112
+msgid "Columns"
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-grid.php:121
+msgid "Columns Gutter"
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-modern.php:31
+msgid "Gallery Modern"
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-modern.php:108
+msgid "Images Proportion 1 (%)"
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-modern.php:133
+msgid "Images Proportion 2 (%)"
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-modern.php:158
+msgid "Image 2"
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-modern.php:167
+#: includes/widgets/jet-woo-product-gallery-modern.php:221
+#: includes/widgets/jet-woo-product-gallery-modern.php:275
+#: includes/widgets/jet-woo-product-gallery-modern.php:329
+msgid "Vertical Alignment"
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-modern.php:212
+msgid "Image 3"
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-modern.php:266
+msgid "Image 4"
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-modern.php:320
+msgid "Image 5"
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-modern.php:432
+msgid "Outer offset"
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-slider.php:31
+msgid "Gallery Slider"
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-slider.php:84
+msgid "Thumbnails Image Size"
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-slider.php:127
+msgid "Slider"
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-slider.php:136
+msgid "Infinite Loop"
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-slider.php:151
+msgid "Slider Syncing"
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-slider.php:167
+msgid "Enable Center Mode"
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-slider.php:179
+msgid "Equal Slides Height"
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-slider.php:191
+msgid "Slider Sensitivity"
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-slider.php:203
+msgid "Slides To Show"
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-slider.php:218
+msgid "Center Mode Padding"
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-slider.php:242
+msgid "Slides Gutter"
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-slider.php:274
+msgid "Show Navigation"
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-slider.php:286
+#: includes/widgets/jet-woo-product-gallery-slider.php:441
+msgid "Arrow Previous"
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-slider.php:304
+#: includes/widgets/jet-woo-product-gallery-slider.php:460
+msgid "Arrow next"
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-slider.php:322
+#: includes/widgets/jet-woo-product-gallery-slider.php:1150
+msgid "Pagination"
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-slider.php:331
+msgid "Show Pagination"
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-slider.php:343
+msgid "Type :"
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-slider.php:352
+#: includes/widgets/jet-woo-product-gallery-slider.php:428
+#: includes/widgets/jet-woo-product-gallery-slider.php:1312
+msgid "Thumbnails"
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-slider.php:366
+msgid "Direction:"
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-slider.php:370
+msgid "Vertical"
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-slider.php:371
+msgid "Horizontal"
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-slider.php:382
+#: includes/widgets/jet-woo-product-gallery-slider.php:405
+msgid "Position :"
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-slider.php:479
+msgid "Visible Items Count"
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-slider.php:553
+msgid "Image Alignment"
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-slider.php:613
+#: includes/widgets/jet-woo-product-gallery-slider.php:1498
+msgid "Prev/Next Arrows"
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-slider.php:720
+#: includes/widgets/jet-woo-product-gallery-slider.php:1636
+msgid "Disabled"
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-slider.php:812
+#: includes/widgets/jet-woo-product-gallery-slider.php:1745
+msgid "Prev Arrow"
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-slider.php:821
+#: includes/widgets/jet-woo-product-gallery-slider.php:988
+#: includes/widgets/jet-woo-product-gallery-slider.php:1754
+#: includes/widgets/jet-woo-product-gallery-slider.php:1916
+msgid "Vertical Position by: "
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-slider.php:843
+#: includes/widgets/jet-woo-product-gallery-slider.php:1010
+#: includes/widgets/jet-woo-product-gallery-slider.php:1771
+#: includes/widgets/jet-woo-product-gallery-slider.php:1933
+msgid "Top Indent"
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-slider.php:872
+#: includes/widgets/jet-woo-product-gallery-slider.php:1039
+#: includes/widgets/jet-woo-product-gallery-slider.php:1800
+#: includes/widgets/jet-woo-product-gallery-slider.php:1962
+msgid "Bottom Indent"
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-slider.php:901
+#: includes/widgets/jet-woo-product-gallery-slider.php:1068
+#: includes/widgets/jet-woo-product-gallery-slider.php:1829
+#: includes/widgets/jet-woo-product-gallery-slider.php:1991
+msgid "Horizontal Position by: "
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-slider.php:921
+#: includes/widgets/jet-woo-product-gallery-slider.php:1088
+#: includes/widgets/jet-woo-product-gallery-slider.php:1849
+#: includes/widgets/jet-woo-product-gallery-slider.php:2011
+msgid "Left Indent"
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-slider.php:950
+#: includes/widgets/jet-woo-product-gallery-slider.php:1117
+#: includes/widgets/jet-woo-product-gallery-slider.php:1878
+#: includes/widgets/jet-woo-product-gallery-slider.php:2040
+msgid "Right Indent"
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-slider.php:979
+#: includes/widgets/jet-woo-product-gallery-slider.php:1907
+msgid "Next Arrow"
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-slider.php:1394
+#: includes/widgets/jet-woo-product-gallery-slider.php:1446
+msgid "Space Between Items"
+msgstr ""
+
+#: includes/widgets/jet-woo-product-gallery-slider.php:1423
+#: includes/widgets/jet-woo-product-gallery-slider.php:1475
+msgid "Gutter"
+msgstr ""
+
+#: jet-woo-product-gallery.php:180
+msgid "Go to settings"
+msgstr ""
+
+#: templates/admin-templates/avaliable-addons.php:6
+msgid "Available Widgets"
+msgstr ""
+
+#: templates/admin-templates/avaliable-addons.php:7
+msgid "List of widgets that will be available when editing the page"
+msgstr ""
+
+#: templates/jet-woo-product-gallery-anchor-nav/global/index.php:34
+#: templates/jet-woo-product-gallery-grid/global/index.php:41
+#: templates/jet-woo-product-gallery-modern/global/index.php:33
+#: templates/jet-woo-product-gallery-slider/global/index.php:64
+msgid "Placeholder"
+msgstr ""
+
+#: templates/jet-woo-product-gallery-anchor-nav/global/popup-video.php:42
+#: templates/jet-woo-product-gallery-grid/global/popup-video.php:42
+#: templates/jet-woo-product-gallery-modern/global/popup-video.php:42
+#: templates/jet-woo-product-gallery-slider/global/popup-video.php:42
+msgid "Open popup with video"
+msgstr ""
+
+#: templates/jet-woo-product-gallery-anchor-nav/global/video.php:48
+#: templates/jet-woo-product-gallery-anchor-nav/global/video.php:55
+#: templates/jet-woo-product-gallery-grid/global/video.php:48
+#: templates/jet-woo-product-gallery-grid/global/video.php:55
+#: templates/jet-woo-product-gallery-modern/global/video.php:48
+#: templates/jet-woo-product-gallery-modern/global/video.php:55
+#: templates/jet-woo-product-gallery-slider/global/video.php:48
+#: templates/jet-woo-product-gallery-slider/global/video.php:55
+msgid "Play Video"
+msgstr ""
+
+#: templates/photoswipe.php:17
+msgid "Close (Esc)"
+msgstr ""
+
+#: templates/photoswipe.php:18
+msgid "Share"
+msgstr ""
+
+#: templates/photoswipe.php:19
+msgid "Toggle fullscreen"
+msgstr ""
+
+#: templates/photoswipe.php:20
+msgid "Zoom in/out"
+msgstr ""
+
+#: templates/photoswipe.php:32
+msgid "Previous (arrow left)"
+msgstr ""
+
+#: templates/photoswipe.php:33
+msgid "Next (arrow right)"
+msgstr ""

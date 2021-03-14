@@ -1,0 +1,2171 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-08-25 11:39+0300\n"
+"PO-Revision-Date: 2020-08-25 11:36+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en\n"
+"X-Poedit-KeywordsList: __;_n;_nx;_e;_ex;_x;esc_attr__;esc_attr_e;esc_html__;"
+"esc_html__e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+
+#: includes/admin.php:89 includes/admin.php:90
+#: includes/components/elementor/dynamic-tags/module.php:24
+#: includes/meta.php:58 templates/admin/pages/dashboard/main.php:7
+msgid "JetReviews"
+msgstr ""
+
+#: includes/admin.php:197 includes/tools.php:80
+msgid "All"
+msgstr ""
+
+#: includes/admin.php:207
+msgid "Approved"
+msgstr ""
+
+#: includes/admin.php:218
+msgid "Not Approved"
+msgstr ""
+
+#: includes/ajax-handlers.php:37
+msgid "Internal error. Please, try again later"
+msgstr ""
+
+#: includes/ajax-handlers.php:38
+msgid "Server error. Please, try again later"
+msgstr ""
+
+#: includes/ajax-handlers.php:39
+msgid "No Data Found"
+msgstr ""
+
+#: includes/ajax-handlers.php:40
+msgid "Success. Review Has Been Added"
+msgstr ""
+
+#: includes/ajax-handlers.php:41
+msgid "Success. Review Has Been Removed"
+msgstr ""
+
+#: includes/ajax-handlers.php:42
+msgid "Demo Mode is active. Only logged users can leave review."
+msgstr ""
+
+#: includes/components/comments/admin-pages/list-page.php:67
+#: includes/components/comments/admin-pages/list-page.php:68
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:376
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:1308
+#: templates/admin/pages/dashboard/main.php:27
+msgid "Comments"
+msgstr ""
+
+#: includes/components/comments/rest-api/delete-comment.php:62
+#: includes/components/comments/rest-api/delete-comment.php:71
+#: includes/components/comments/rest-api/get-admin-comments-list.php:73
+#: includes/components/comments/rest-api/submit-review-comment.php:73
+#: includes/components/comments/rest-api/submit-review-comment.php:96
+#: includes/components/comments/rest-api/toggle-comment-approve.php:80
+#: includes/components/reviews/rest-api/add-review-type.php:88
+#: includes/components/reviews/rest-api/delete-review-type.php:62
+#: includes/components/reviews/rest-api/delete-review-type.php:71
+#: includes/components/reviews/rest-api/delete-review.php:63
+#: includes/components/reviews/rest-api/get-admin-reviews-list.php:78
+#: includes/components/reviews/rest-api/get-public-reviews-list.php:73
+#: includes/components/reviews/rest-api/get-types-list.php:56
+#: includes/components/reviews/rest-api/toggle-review-approve.php:80
+msgid "Error"
+msgstr ""
+
+#: includes/components/comments/rest-api/delete-comment.php:79
+msgid "Comment have been deleted"
+msgstr ""
+
+#: includes/components/comments/rest-api/get-admin-comments-list.php:79
+#: includes/components/comments/rest-api/toggle-comment-approve.php:86
+#: includes/components/reviews/rest-api/get-admin-reviews-list.php:84
+#: includes/components/reviews/rest-api/get-public-reviews-list.php:79
+#: includes/components/reviews/rest-api/get-types-list.php:62
+#: includes/components/reviews/rest-api/toggle-review-approve.php:86
+msgid "Success"
+msgstr ""
+
+#: includes/components/comments/rest-api/submit-review-comment.php:103
+msgid "*Your comment must be approved by the moderator"
+msgstr ""
+
+#: includes/components/comments/rest-api/submit-review-comment.php:131
+msgid "New Comment has been saved"
+msgstr ""
+
+#: includes/components/comments/rest-api/update-comment.php:63
+msgid "Comment Update Error"
+msgstr ""
+
+#: includes/components/comments/rest-api/update-comment.php:69
+msgid "Comment have been updated"
+msgstr ""
+
+#: includes/components/elementor/dynamic-tags/average-rating.php:15
+msgid "Average Rating"
+msgstr ""
+
+#: includes/components/elementor/dynamic-tags/average-rating.php:34
+#: includes/components/elementor/dynamic-tags/reviews-info.php:33
+#: includes/lib/class-tgm-plugin-activation.php:2642
+msgid "Type"
+msgstr ""
+
+#: includes/components/elementor/dynamic-tags/average-rating.php:38
+msgid "Percent"
+msgstr ""
+
+#: includes/components/elementor/dynamic-tags/average-rating.php:39
+msgid "Ratio"
+msgstr ""
+
+#: includes/components/elementor/dynamic-tags/average-rating.php:47
+msgid "Ratio Bound"
+msgstr ""
+
+#: includes/components/elementor/dynamic-tags/average-rating.php:62
+msgid "Decimals Count"
+msgstr ""
+
+#: includes/components/elementor/dynamic-tags/reviews-info.php:15
+msgid "Reviews Info"
+msgstr ""
+
+#: includes/components/elementor/dynamic-tags/reviews-info.php:37
+msgid "Reviews Count"
+msgstr ""
+
+#: includes/components/elementor/dynamic-tags/reviews-info.php:38
+msgid "Reviews Count Label"
+msgstr ""
+
+#: includes/components/elementor/dynamic-tags/reviews-info.php:69
+msgid "1 Review"
+msgstr ""
+
+#: includes/components/elementor/manager.php:88
+msgid "JetElements"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:29
+msgid "Reviews Listing"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:64
+#: includes/components/settings/admin-pages/settings-page.php:41
+#: includes/components/settings/admin-pages/settings-page.php:42
+#: templates/admin/pages/settings/settings-page.php:7
+msgid "Settings"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:71
+msgid "Rating Layout"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:75
+#: includes/components/elementor/widgets/jet-reviews.php:327
+#: includes/components/elementor/widgets/jet-reviews.php:383
+#: includes/components/elementor/widgets/jet-reviews.php:526
+msgid "Stars"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:76
+#: includes/components/elementor/widgets/jet-reviews.php:329
+#: includes/components/elementor/widgets/jet-reviews.php:385
+#: includes/components/elementor/widgets/jet-reviews.php:528
+msgid "Points"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:86
+msgid "Icons"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:93
+msgid "Empty Star Icon"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:111
+msgid "Filled Star Icon"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:129
+msgid "New Review Button Icon"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:144
+msgid "Show Comments Button Icon"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:159
+msgid "New Comment Button Icon"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:174
+msgid "Pinned Icon"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:189
+msgid "Empty Like Icon"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:204
+msgid "Filled Like Icon"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:219
+msgid "Empty Dislike Icon"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:234
+msgid "Filled Dislike Icon"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:249
+msgid "Reply Button Icon"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:266
+msgid "Labels"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:273
+msgid "No Reviews Label"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:276
+#: templates/admin/pages/comments/list-page.php:38
+#: templates/admin/pages/reviews/list-page.php:52
+msgid "No reviews found"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:283
+msgid "New Review Button"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:286
+msgid "Write a review"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:293
+msgid "Review Content Placeholder"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:296
+msgid "Your review"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:303
+msgid "Review Title Placeholder"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:306
+msgid "Title of your review"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:313
+msgid "Submit Review Button"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:316
+msgid "Submit a review"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:323
+msgid "Cancel Button"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:326
+#: templates/admin/pages/comments/list-page.php:153
+#: templates/admin/pages/reviews/list-page.php:239
+#: templates/admin/pages/reviews/types-page.php:66
+#: templates/admin/pages/reviews/types-page.php:156
+#: templates/admin/pages/reviews/types-page.php:234
+msgid "Cancel"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:333
+msgid "New Comment Button"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:336
+msgid "Leave a comment"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:343
+msgid "Comments Placeholder"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:346
+msgid "Leave your comments"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:353
+msgid "Show Comments Button"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:356
+msgid "Show Comments"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:363
+msgid "Hide Comments Button"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:366
+msgid "Hide Comments"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:373
+msgid "Comments Title"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:383
+msgid "Submit Comment Button"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:386
+msgid "Submit Comment"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:393
+msgid "Reply Comment Button"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:396
+msgid "Reply"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:403
+msgid "Reply Placeholder"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:406
+msgid "Leave you reply"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:413
+msgid "Submit Reply Button"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:416
+msgid "Submit a reply"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:425
+#: templates/admin/pages/dashboard/main.php:47
+#: templates/admin/pages/dashboard/main.php:82
+#: templates/admin/pages/reviews/list-page.php:62
+msgid "Rating"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:434
+msgid "Star Size"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:454
+msgid "Star Gap"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:474
+msgid "Bar Height"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:494
+msgid "Empty Color"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:507
+msgid "Very Low Color"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:520
+msgid "Low Color"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:533
+msgid "Medium Color"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:546
+msgid "High Color"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:559
+msgid "Very High Color"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:572
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:661
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:735
+msgid "Label Color"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:587
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:626
+msgid "Label Typography"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:599
+msgid "Controls"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:608
+msgid "Icon Size"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:638
+msgid "Primary"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:645
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:719
+msgid "Icon Color"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:677
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:751
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:832
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:938
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:1285
+#: includes/components/elementor/widgets/jet-reviews.php:613
+#: includes/components/elementor/widgets/jet-reviews.php:689
+#: includes/components/elementor/widgets/jet-reviews.php:941
+#: includes/components/elementor/widgets/jet-reviews.php:1222
+#: includes/components/elementor/widgets/jet-reviews.php:1425
+#: includes/components/elementor/widgets/jet-reviews.php:1511
+#: includes/components/elementor/widgets/jet-reviews.php:1664
+#: includes/components/elementor/widgets/jet-reviews.php:1800
+#: includes/components/elementor/widgets/jet-reviews.php:1948
+#: includes/components/elementor/widgets/jet-reviews.php:2156
+#: includes/components/elementor/widgets/jet-reviews.php:2315
+#: includes/components/elementor/widgets/jet-reviews.php:2463
+msgid "Border"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:686
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:760
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:841
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:947
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:1294
+#: includes/components/elementor/widgets/jet-reviews.php:622
+#: includes/components/elementor/widgets/jet-reviews.php:698
+#: includes/components/elementor/widgets/jet-reviews.php:988
+#: includes/components/elementor/widgets/jet-reviews.php:1051
+#: includes/components/elementor/widgets/jet-reviews.php:1231
+#: includes/components/elementor/widgets/jet-reviews.php:1364
+#: includes/components/elementor/widgets/jet-reviews.php:1435
+#: includes/components/elementor/widgets/jet-reviews.php:1520
+#: includes/components/elementor/widgets/jet-reviews.php:1673
+#: includes/components/elementor/widgets/jet-reviews.php:1809
+#: includes/components/elementor/widgets/jet-reviews.php:1995
+#: includes/components/elementor/widgets/jet-reviews.php:2165
+#: includes/components/elementor/widgets/jet-reviews.php:2324
+#: includes/components/elementor/widgets/jet-reviews.php:2510
+msgid "Border Radius"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:698
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:772
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:853
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:925
+#: includes/components/elementor/widgets/jet-reviews.php:600
+#: includes/components/elementor/widgets/jet-reviews.php:664
+#: includes/components/elementor/widgets/jet-reviews.php:964
+#: includes/components/elementor/widgets/jet-reviews.php:1071
+#: includes/components/elementor/widgets/jet-reviews.php:1243
+#: includes/components/elementor/widgets/jet-reviews.php:1384
+#: includes/components/elementor/widgets/jet-reviews.php:1447
+#: includes/components/elementor/widgets/jet-reviews.php:1775
+#: includes/components/elementor/widgets/jet-reviews.php:1971
+#: includes/components/elementor/widgets/jet-reviews.php:2131
+#: includes/components/elementor/widgets/jet-reviews.php:2290
+#: includes/components/elementor/widgets/jet-reviews.php:2486
+msgid "Padding"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:712
+msgid "Secondary"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:790
+msgid "Forms"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:799
+msgid "Inputs"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:807
+#: includes/components/elementor/widgets/jet-reviews.php:719
+#: includes/components/elementor/widgets/jet-reviews.php:789
+#: includes/components/elementor/widgets/jet-reviews.php:1104
+#: includes/components/elementor/widgets/jet-reviews.php:1137
+#: includes/components/elementor/widgets/jet-reviews.php:1198
+#: includes/components/elementor/widgets/jet-reviews.php:1553
+#: includes/components/elementor/widgets/jet-reviews.php:1586
+#: includes/components/elementor/widgets/jet-reviews.php:1619
+#: includes/components/elementor/widgets/jet-reviews.php:1706
+#: includes/components/elementor/widgets/jet-reviews.php:1739
+#: includes/components/elementor/widgets/jet-reviews.php:2028
+#: includes/components/elementor/widgets/jet-reviews.php:2061
+#: includes/components/elementor/widgets/jet-reviews.php:2197
+#: includes/components/elementor/widgets/jet-reviews.php:2230
+msgid "Color"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:865
+#: includes/components/elementor/widgets/jet-reviews.php:1165
+msgid "Slider"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:874
+#: includes/components/elementor/widgets/jet-reviews.php:1174
+msgid "Slider Color"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:891
+#: includes/components/elementor/widgets/jet-reviews.php:644
+msgid "Header"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:900
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:1094
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:1342
+msgid "Title Color"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:915
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:1109
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:1357
+msgid "Title Typography"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:969
+#: templates/admin/pages/dashboard/main.php:14
+#: templates/admin/pages/dashboard/main.php:43
+#: templates/admin/pages/dashboard/main.php:75
+#: templates/public/widgets/jet-reviews-advanced-widget.php:48
+msgid "Reviews"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:978
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:1367
+#: includes/components/elementor/widgets/jet-reviews.php:1399
+#: includes/tools.php:308 templates/admin/pages/comments/list-page.php:46
+#: templates/admin/pages/reviews/list-page.php:60
+msgid "Author"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:986
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:1375
+#: includes/components/elementor/widgets/jet-reviews.php:1488
+msgid "Avatar Size"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:1003
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:1392
+msgid "Avatar Spacing"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:1020
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:1409
+msgid "Author Name Color"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:1035
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:1424
+msgid "Author Name Typography"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:1044
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:1433
+msgid "Publish Time Color"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:1059
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:1448
+msgid "Publish Time Typography"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:1068
+#: includes/components/elementor/widgets/jet-reviews.php:312
+#: includes/components/elementor/widgets/jet-reviews.php:710
+#: includes/components/elementor/widgets/jet-reviews.php:1095
+#: includes/meta.php:68 includes/tools.php:309
+#: templates/admin/pages/reviews/list-page.php:61
+#: templates/admin/pages/reviews/list-page.php:147
+#: templates/jet-reviews/global/form.php:44
+msgid "Title"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:1077
+msgid "Spacing"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:1119
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:1457
+#: includes/components/elementor/widgets/jet-reviews.php:81
+#: templates/admin/pages/reviews/list-page.php:157
+msgid "Content"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:1128
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:1466
+msgid "Content Color"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:1143
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:1481
+msgid "Content Typography"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:1153
+msgid "Review Item"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:1162
+#: includes/components/elementor/widgets/jet-reviews.php:579
+msgid "Review Gap"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:1179
+msgid "Review Padding"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:1192
+msgid "Review Border"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:1201
+msgid "Review Border Radius"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:1213
+msgid "Review Box Shadow"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:1224
+msgid "Reviews Misc"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:1233
+msgid "Virify Label"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:1241
+msgid "Verify Label Color"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:1257
+msgid "Verify Icon Size"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:1275
+msgid "Verify Label Typography"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:1317
+msgid "General"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:1325
+msgid "Title Spacing"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:1491
+msgid "Comment Item"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:1500
+msgid "Comment Gap"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews-advanced.php:1517
+msgid "Reply Gap"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:33
+msgid "Static Review"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:89
+msgid "Content Source"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:98
+msgid "Get Data From Post"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:99
+msgid ""
+"Enter post ID to get data from or leave empy to get data from current post"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:111
+msgid "Show Review Author"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:113
+#: includes/components/elementor/widgets/jet-reviews.php:223
+msgid "Yes"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:114
+#: includes/components/elementor/widgets/jet-reviews.php:224
+msgid "No"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:125
+#: includes/components/elementor/widgets/jet-reviews.php:1128
+#: includes/components/elementor/widgets/jet-reviews.php:1697
+#: includes/meta.php:81 templates/admin/pages/reviews/types-page.php:115
+#: templates/admin/pages/reviews/types-page.php:195
+msgid "Label"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:133
+#: includes/meta.php:87
+msgid "Field Value"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:145
+msgid "Field Max"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:161
+msgid "Design"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:176
+#: includes/components/elementor/widgets/jet-reviews.php:2019
+#: includes/meta.php:102
+msgid "Summary Title"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:177
+msgid "Review Summary Title"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:188
+#: includes/meta.php:106
+msgid "Summary Text"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:190
+msgid "Review Summary Description"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:200
+#: includes/meta.php:111
+msgid "Summary Legend"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:202
+msgid "Nice!"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:214
+msgid "Structured Data"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:221
+msgid "Add Structured Data to review box"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:233
+msgid "Review Item Name"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:246
+msgid "Review Item Image"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:261
+msgid "Review Item Description"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:276
+msgid "Review Date"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:290
+#: includes/meta.php:142 includes/meta.php:143
+msgid "Review Author Name"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:305
+msgid "Header Settings"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:323
+msgid "Average Layout"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:328
+#: includes/components/elementor/widgets/jet-reviews.php:384
+#: includes/components/elementor/widgets/jet-reviews.php:527
+msgid "Percentage"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:337
+#: includes/components/elementor/widgets/jet-reviews.php:409
+#: includes/components/elementor/widgets/jet-reviews.php:536
+msgid "Progressbar"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:339
+#: includes/components/elementor/widgets/jet-reviews.php:411
+#: includes/components/elementor/widgets/jet-reviews.php:538
+msgid "Show"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:340
+#: includes/components/elementor/widgets/jet-reviews.php:412
+#: includes/components/elementor/widgets/jet-reviews.php:539
+msgid "Hide"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:352
+#: includes/components/elementor/widgets/jet-reviews.php:424
+#: includes/components/elementor/widgets/jet-reviews.php:551
+msgid "Values Position"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:356
+#: includes/components/elementor/widgets/jet-reviews.php:428
+#: includes/components/elementor/widgets/jet-reviews.php:555
+msgid "Above Progressbar"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:357
+#: includes/components/elementor/widgets/jet-reviews.php:429
+#: includes/components/elementor/widgets/jet-reviews.php:556
+msgid "Inside Progressbar"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:372
+msgid "Fields Settings"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:379
+msgid "Layout"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:393
+msgid "Stars Position"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:397
+#: includes/components/elementor/widgets/jet-reviews.php:445
+#: includes/components/elementor/widgets/jet-reviews.php:756
+#: includes/components/elementor/widgets/jet-reviews.php:2118
+#: includes/components/elementor/widgets/jet-reviews.php:2280
+msgid "Right"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:398
+#: includes/components/elementor/widgets/jet-reviews.php:446
+#: includes/components/elementor/widgets/jet-reviews.php:748
+#: includes/components/elementor/widgets/jet-reviews.php:2110
+#: includes/components/elementor/widgets/jet-reviews.php:2272
+msgid "Left"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:441
+msgid "Values Alignment"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:461
+msgid "Label Suffix"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:474
+msgid "Summary Settings"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:481
+msgid "Summary Results Block Position"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:486
+msgid "At right side of summary box"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:487
+msgid "At bottom of summary box"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:488
+msgid "At left side of summary box"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:489
+msgid "At top of summary box"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:497
+msgid "Results Block Width"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:522
+msgid "Summary Average Layout"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:570
+#: templates/public/widgets/jet-reviews-advanced-widget.php:41
+msgid "Review"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:653
+#: includes/components/elementor/widgets/jet-reviews.php:1293
+#: includes/components/elementor/widgets/jet-reviews.php:1324
+#: includes/components/elementor/widgets/jet-reviews.php:1764
+#: includes/components/elementor/widgets/jet-reviews.php:2094
+#: includes/components/elementor/widgets/jet-reviews.php:2255
+msgid "Background Color"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:676
+#: includes/components/elementor/widgets/jet-reviews.php:976
+#: includes/components/elementor/widgets/jet-reviews.php:1083
+#: includes/components/elementor/widgets/jet-reviews.php:1459
+#: includes/components/elementor/widgets/jet-reviews.php:1532
+#: includes/components/elementor/widgets/jet-reviews.php:1787
+#: includes/components/elementor/widgets/jet-reviews.php:1983
+#: includes/components/elementor/widgets/jet-reviews.php:2143
+#: includes/components/elementor/widgets/jet-reviews.php:2302
+#: includes/components/elementor/widgets/jet-reviews.php:2498
+msgid "Margin"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:743
+#: includes/components/elementor/widgets/jet-reviews.php:2105
+#: includes/components/elementor/widgets/jet-reviews.php:2267
+msgid "Alignment"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:752
+#: includes/components/elementor/widgets/jet-reviews.php:2114
+#: includes/components/elementor/widgets/jet-reviews.php:2276
+msgid "Center"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:771
+msgid "Total Average"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:780
+#: includes/components/elementor/widgets/jet-reviews.php:1730
+#: includes/components/elementor/widgets/jet-reviews.php:2221
+#: includes/meta.php:88
+msgid "Value"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:814
+#: includes/components/elementor/widgets/jet-reviews.php:1821
+#: includes/components/elementor/widgets/jet-reviews.php:2336
+msgid "Stars Rating"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:823
+#: includes/components/elementor/widgets/jet-reviews.php:1830
+#: includes/components/elementor/widgets/jet-reviews.php:2345
+msgid "Stars Size"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:844
+#: includes/components/elementor/widgets/jet-reviews.php:1851
+#: includes/components/elementor/widgets/jet-reviews.php:2366
+msgid "Empty Stars Color"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:859
+#: includes/components/elementor/widgets/jet-reviews.php:1866
+#: includes/components/elementor/widgets/jet-reviews.php:2381
+msgid "Filled Stars Color"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:874
+#: includes/components/elementor/widgets/jet-reviews.php:1881
+#: includes/components/elementor/widgets/jet-reviews.php:2396
+msgid "Stars Gap"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:895
+#: includes/components/elementor/widgets/jet-reviews.php:1902
+#: includes/components/elementor/widgets/jet-reviews.php:2417
+msgid "Progress Styles"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:904
+#: includes/components/elementor/widgets/jet-reviews.php:1911
+#: includes/components/elementor/widgets/jet-reviews.php:2426
+msgid "Progress Height"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:925
+#: includes/components/elementor/widgets/jet-reviews.php:1932
+#: includes/components/elementor/widgets/jet-reviews.php:2447
+msgid "Progress Canvas Color"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:949
+#: includes/components/elementor/widgets/jet-reviews.php:1956
+#: includes/components/elementor/widgets/jet-reviews.php:2471
+msgid "Progress Bar Color"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:1003
+msgid "Review Form"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:1012
+#: includes/components/elementor/widgets/jet-reviews.php:1408
+msgid "Container"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:1020
+msgid "Fields Gap"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:1189
+msgid "Input"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:1255
+msgid "Submit"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:1274
+msgid "Normal"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:1281
+#: includes/components/elementor/widgets/jet-reviews.php:1313
+msgid "Text Color"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:1306
+msgid "Hover"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:1335
+msgid "Border Color"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:1479
+msgid "Avatar"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:1544
+#: templates/admin/pages/reviews/types-page.php:27
+#: templates/admin/pages/reviews/types-page.php:82
+#: templates/admin/pages/reviews/types-page.php:170
+msgid "Name"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:1577
+msgid "Mail"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:1610
+#: includes/tools.php:311 templates/admin/pages/comments/list-page.php:49
+#: templates/admin/pages/reviews/list-page.php:64
+msgid "Date"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:1645
+#: templates/admin/pages/reviews/list-page.php:169
+#: templates/admin/pages/reviews/types-page.php:29
+msgid "Fields"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:1654
+msgid "Fields Box"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:1685
+msgid "Fields Box Padding"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:2010
+msgid "Summary"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:2052
+msgid "Summary Content"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:2085
+msgid "Summary Box"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:2179
+msgid "Summary Average"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:2188
+#: templates/jet-reviews/global/form.php:49
+msgid "Legend"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:2567
+msgid ""
+"Structured data supported only for Post Meta and Manually Input sources"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:2695
+msgid "Any Review Fields Not Found"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:3136
+msgid "Manually Input"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:3137
+msgid "Post Meta"
+msgstr ""
+
+#: includes/components/elementor/widgets/jet-reviews.php:3142
+msgid "WP Review Data"
+msgstr ""
+
+#: includes/components/reviews/admin-pages/list-page.php:67
+#: includes/components/reviews/admin-pages/list-page.php:68
+msgid "All Reviews"
+msgstr ""
+
+#: includes/components/reviews/admin-pages/types-page.php:41
+#: includes/components/reviews/admin-pages/types-page.php:42
+#: templates/admin/pages/reviews/types-page.php:7
+msgid "Review Types"
+msgstr ""
+
+#: includes/components/reviews/admin-pages/types-page.php:88
+msgid "Type name cannot be empty"
+msgstr ""
+
+#: includes/components/reviews/admin-pages/types-page.php:89
+msgid "List of fields cannot be empty"
+msgstr ""
+
+#: includes/components/reviews/elementor-widget-render.php:47
+msgid "JetReviews unavailable for jetThemeCore template preview"
+msgstr ""
+
+#: includes/components/reviews/elementor-widget-render.php:53
+msgid "JetReviews unavailable for this type of post"
+msgstr ""
+
+#: includes/components/reviews/rest-api/add-review-type.php:79
+msgid "Type with this slug is already exist"
+msgstr ""
+
+#: includes/components/reviews/rest-api/add-review-type.php:94
+msgid "New Review type has been created"
+msgstr ""
+
+#: includes/components/reviews/rest-api/delete-review-type.php:77
+msgid "Review have been deleted"
+msgstr ""
+
+#: includes/components/reviews/rest-api/delete-review.php:75
+msgid "The review has not been deleted"
+msgstr ""
+
+#: includes/components/reviews/rest-api/delete-review.php:81
+msgid "The review have been deleted"
+msgstr ""
+
+#: includes/components/reviews/rest-api/submit-review.php:77
+msgid "You can't leave a review. Demo mode is active"
+msgstr ""
+
+#: includes/components/reviews/rest-api/submit-review.php:108
+msgid "DataBase Error"
+msgstr ""
+
+#: includes/components/reviews/rest-api/submit-review.php:115
+msgid "*Your review must be approved by the moderator"
+msgstr ""
+
+#: includes/components/reviews/rest-api/submit-review.php:154
+msgid "New Review has been created"
+msgstr ""
+
+#: includes/components/reviews/rest-api/update-review-approval.php:73
+msgid "Error Review Approval"
+msgstr ""
+
+#: includes/components/reviews/rest-api/update-review-approval.php:79
+msgid "Success Review Approval"
+msgstr ""
+
+#: includes/components/reviews/rest-api/update-review-type.php:75
+#: includes/components/settings/rest-api/save-settings.php:61
+#: includes/rest-api/endpoints/plugin-settings.php:44
+msgid "Server Error"
+msgstr ""
+
+#: includes/components/reviews/rest-api/update-review-type.php:81
+msgid "Review fields has been updated"
+msgstr ""
+
+#: includes/components/reviews/rest-api/update-review.php:63
+msgid "Review Update Error"
+msgstr ""
+
+#: includes/components/reviews/rest-api/update-review.php:69
+msgid "Review data have been updated"
+msgstr ""
+
+#: includes/components/settings/rest-api/save-settings.php:73
+#: includes/rest-api/endpoints/plugin-settings.php:56
+msgid "Settings have been saved"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:393
+#: includes/lib/class-tgm-plugin-activation.php:920
+#: includes/lib/class-tgm-plugin-activation.php:2626
+#: includes/lib/class-tgm-plugin-activation.php:3673
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:394
+#: includes/lib/class-tgm-plugin-activation.php:3252
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:395
+#: includes/lib/class-tgm-plugin-activation.php:3045
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1027
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1027
+#: includes/lib/class-tgm-plugin-activation.php:1030
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1030
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2075
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2366
+msgid "Required"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2369
+msgid "Recommended"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2385
+msgid "WordPress Repository"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2388
+msgid "External Source"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2391
+msgid "Pre-Packaged"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2408
+msgid "Not Installed"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2412
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2414
+msgid "Active"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2420
+msgid "Required Update not Available"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2423
+msgid "Requires Update"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2426
+msgid "Update recommended"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2435
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "All <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2489
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2493
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2575
+msgid "unknown"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2583
+msgid "Installed version:"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2591
+msgid "Minimum required version:"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2603
+msgid "Available version:"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2626
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2640
+msgid "Plugin"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2641
+msgid "Source"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2646
+msgid "Version"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2647
+msgid "Status"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2696
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2701
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2707
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2777
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2810
+msgid "Install"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2816
+msgid "Update"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2819
+msgid "Activate"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:3001
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:3027
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:3251
+msgid "Plugin activation failed."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:3591
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:3596
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation and activation process is starting. This process may take "
+"a while on some hosts, so please be patient."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:3602
+#: includes/lib/class-tgm-plugin-activation.php:3610
+msgid "Show Details"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:3602
+#: includes/lib/class-tgm-plugin-activation.php:3610
+msgid "Hide Details"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:3603
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:3608
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:3610
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:3611
+msgid "All installations have been completed."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:3613
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/meta.php:67
+msgid "Review Box Title"
+msgstr ""
+
+#: includes/meta.php:72
+msgid "Review Fields"
+msgstr ""
+
+#: includes/meta.php:73
+msgid "Add New Field"
+msgstr ""
+
+#: includes/meta.php:80
+msgid "Review Field Label"
+msgstr ""
+
+#: includes/meta.php:94
+msgid "Field Max Value"
+msgstr ""
+
+#: includes/meta.php:95 templates/admin/pages/reviews/types-page.php:132
+#: templates/admin/pages/reviews/types-page.php:212
+msgid "Max Value"
+msgstr ""
+
+#: includes/meta.php:101
+msgid "Summary Block Title"
+msgstr ""
+
+#: includes/meta.php:110
+msgid "Text Above Summary Value"
+msgstr ""
+
+#: includes/meta.php:118
+msgid "JetReviews Structured Data"
+msgstr ""
+
+#: includes/meta.php:127
+msgid "What was reviewed?"
+msgstr ""
+
+#: includes/meta.php:128
+msgid "Reviewed Item Name"
+msgstr ""
+
+#: includes/meta.php:133
+msgid "Reviewed Item Image"
+msgstr ""
+
+#: includes/meta.php:137
+msgid "Few words about reviewd item"
+msgstr ""
+
+#: includes/meta.php:138
+msgid "Reviewd Item Description"
+msgstr ""
+
+#: includes/modules/jet-dashboard/inc/plugin-manager.php:219
+#, php-format
+msgid "More information about %s"
+msgstr ""
+
+#: includes/modules/jet-dashboard/jet-dashboard.php:210
+#: includes/modules/jet-dashboard/jet-dashboard.php:211
+msgid "Dashboard"
+msgstr ""
+
+#: includes/tools.php:131 includes/user/manager.php:257
+msgid "Guest"
+msgstr ""
+
+#: includes/tools.php:151
+msgid " ago"
+msgstr ""
+
+#: includes/tools.php:272
+msgid "Full"
+msgstr ""
+
+#: includes/tools.php:306 includes/user/manager.php:208
+msgid "None"
+msgstr ""
+
+#: includes/tools.php:307
+msgid "ID"
+msgstr ""
+
+#: includes/tools.php:310
+msgid "Name (slug)"
+msgstr ""
+
+#: includes/tools.php:312
+msgid "Modified"
+msgstr ""
+
+#: includes/tools.php:313
+msgid "Rand"
+msgstr ""
+
+#: includes/tools.php:314
+msgid "Comment Count"
+msgstr ""
+
+#: includes/tools.php:315
+msgid "Menu Order"
+msgstr ""
+
+#: includes/tools.php:327
+msgid "Descending"
+msgstr ""
+
+#: includes/tools.php:328
+msgid "Ascending"
+msgstr ""
+
+#: includes/tools.php:340
+msgid "Baseline"
+msgstr ""
+
+#: includes/tools.php:341
+msgid "Top"
+msgstr ""
+
+#: includes/tools.php:342
+msgid "Middle"
+msgstr ""
+
+#: includes/tools.php:343
+msgid "Bottom"
+msgstr ""
+
+#: includes/tools.php:344
+msgid "Sub"
+msgstr ""
+
+#: includes/tools.php:345
+msgid "Super"
+msgstr ""
+
+#: includes/tools.php:346
+msgid "Text Top"
+msgstr ""
+
+#: includes/tools.php:347
+msgid "Text Bottom"
+msgstr ""
+
+#: includes/tools.php:457 includes/tools.php:480
+msgid "Angle"
+msgstr ""
+
+#: includes/tools.php:458 includes/tools.php:481
+msgid "Chevron"
+msgstr ""
+
+#: includes/tools.php:459 includes/tools.php:482
+msgid "Angle Double"
+msgstr ""
+
+#: includes/tools.php:460 includes/tools.php:483
+msgid "Arrow"
+msgstr ""
+
+#: includes/tools.php:461 includes/tools.php:484
+msgid "Caret"
+msgstr ""
+
+#: includes/tools.php:462 includes/tools.php:485
+msgid "Long Arrow"
+msgstr ""
+
+#: includes/tools.php:463 includes/tools.php:486
+msgid "Arrow Circle"
+msgstr ""
+
+#: includes/tools.php:464 includes/tools.php:487
+msgid "Chevron Circle"
+msgstr ""
+
+#: includes/tools.php:465 includes/tools.php:488
+msgid "Caret Square"
+msgstr ""
+
+#: includes/tools.php:578
+msgid "Jan"
+msgstr ""
+
+#: includes/tools.php:582
+msgid "Feb"
+msgstr ""
+
+#: includes/tools.php:586
+msgid "Mar"
+msgstr ""
+
+#: includes/tools.php:590
+msgid "Apr"
+msgstr ""
+
+#: includes/tools.php:594
+msgid "May"
+msgstr ""
+
+#: includes/tools.php:598
+msgid "Jun"
+msgstr ""
+
+#: includes/tools.php:602
+msgid "Jul"
+msgstr ""
+
+#: includes/tools.php:606
+msgid "Aug"
+msgstr ""
+
+#: includes/tools.php:610
+msgid "Sep"
+msgstr ""
+
+#: includes/tools.php:614
+msgid "Oct"
+msgstr ""
+
+#: includes/tools.php:618
+msgid "Nov"
+msgstr ""
+
+#: includes/tools.php:622
+msgid "Dec"
+msgstr ""
+
+#: includes/user/conditions/already-reviewed.php:27
+msgid "*This post already reviewed"
+msgstr ""
+
+#: includes/user/conditions/user-guest.php:27
+msgid "*Guests cannot publish reviews"
+msgstr ""
+
+#: includes/user/conditions/user-role.php:27
+msgid "*User with this role cannot publish a new review"
+msgstr ""
+
+#: includes/user/manager.php:242
+msgid "*This user can publish reviews."
+msgstr ""
+
+#: includes/user/verifications/user-logged-in.php:39
+msgid "User Logged In"
+msgstr ""
+
+#: includes/user/verifications/user-logged-in.php:41
+msgid "Logged In"
+msgstr ""
+
+#: jet-reviews.php:265
+msgid "JetReviews requires Elementor to be activated."
+msgstr ""
+
+#: jet-reviews.php:266
+msgid "Activate Elementor Now"
+msgstr ""
+
+#: jet-reviews.php:274
+msgid "JetMenu requires Elementor to be installed."
+msgstr ""
+
+#: jet-reviews.php:275
+msgid "Install Elementor Now"
+msgstr ""
+
+#: templates/admin-templates/settings-page.php:7
+msgid "JetReviews Settings"
+msgstr ""
+
+#: templates/admin-templates/settings-page.php:9
+msgid "Enable Review Meta Box For:"
+msgstr ""
+
+#: templates/admin/pages/comments/list-page.php:7
+msgid "Comment List"
+msgstr ""
+
+#: templates/admin/pages/comments/list-page.php:12
+msgid "Search Comments"
+msgstr ""
+
+#: templates/admin/pages/comments/list-page.php:29
+#: templates/admin/pages/reviews/list-page.php:43
+msgid "Search"
+msgstr ""
+
+#: templates/admin/pages/comments/list-page.php:47
+#: templates/admin/pages/comments/list-page.php:125
+msgid "Comment"
+msgstr ""
+
+#: templates/admin/pages/comments/list-page.php:48
+#: templates/admin/pages/reviews/list-page.php:63
+msgid "Assigned to"
+msgstr ""
+
+#: templates/admin/pages/comments/list-page.php:50
+#: templates/admin/pages/reviews/list-page.php:65
+#: templates/admin/pages/reviews/types-page.php:30
+msgid "Actions"
+msgstr ""
+
+#: templates/admin/pages/comments/list-page.php:78
+#: templates/admin/pages/reviews/list-page.php:98
+msgid "Unapprove"
+msgstr ""
+
+#: templates/admin/pages/comments/list-page.php:79
+#: templates/admin/pages/reviews/list-page.php:99
+msgid "Approve"
+msgstr ""
+
+#: templates/admin/pages/comments/list-page.php:86
+#: templates/admin/pages/reviews/list-page.php:106
+msgid "Edit"
+msgstr ""
+
+#: templates/admin/pages/comments/list-page.php:93
+#: templates/admin/pages/comments/list-page.php:152
+#: templates/admin/pages/reviews/list-page.php:113
+#: templates/admin/pages/reviews/list-page.php:238
+#: templates/admin/pages/reviews/types-page.php:53
+#: templates/admin/pages/reviews/types-page.php:233
+msgid "Delete"
+msgstr ""
+
+#: templates/admin/pages/comments/list-page.php:118
+msgid "Edit Comment"
+msgstr ""
+
+#: templates/admin/pages/comments/list-page.php:140
+#: templates/admin/pages/reviews/types-page.php:155
+msgid "Save"
+msgstr ""
+
+#: templates/admin/pages/comments/list-page.php:156
+msgid "Please confirm comment deletion"
+msgstr ""
+
+#: templates/admin/pages/dashboard/main.php:11
+msgid "General Review Stats"
+msgstr ""
+
+#: templates/admin/pages/dashboard/main.php:18
+msgid "Approved Reviews"
+msgstr ""
+
+#: templates/admin/pages/dashboard/main.php:22
+msgid "Not Approved Reviews"
+msgstr ""
+
+#: templates/admin/pages/dashboard/main.php:31
+msgid "Approved Comments"
+msgstr ""
+
+#: templates/admin/pages/dashboard/main.php:35
+msgid "Not Approved Comments"
+msgstr ""
+
+#: templates/admin/pages/dashboard/main.php:57
+msgid "Post Types Review Stats"
+msgstr ""
+
+#: templates/admin/pages/dashboard/main.php:91
+msgid "Details"
+msgstr ""
+
+#: templates/admin/pages/dashboard/main.php:94
+msgid "Reviews:"
+msgstr ""
+
+#: templates/admin/pages/dashboard/main.php:97
+msgid "Approved reviews:"
+msgstr ""
+
+#: templates/admin/pages/dashboard/main.php:100
+msgid "Not approved reviews:"
+msgstr ""
+
+#: templates/admin/pages/dashboard/main.php:103
+msgid "Review type:"
+msgstr ""
+
+#: templates/admin/pages/dashboard/main.php:106
+msgid "Allowed:"
+msgstr ""
+
+#: templates/admin/pages/dashboard/main.php:109
+msgid "Reviews need approval:"
+msgstr ""
+
+#: templates/admin/pages/dashboard/main.php:112
+msgid "Comments allowed:"
+msgstr ""
+
+#: templates/admin/pages/dashboard/main.php:115
+msgid "Comments need approval:"
+msgstr ""
+
+#: templates/admin/pages/dashboard/main.php:118
+msgid "Likes/dislikes allowed:"
+msgstr ""
+
+#: templates/admin/pages/reviews/list-page.php:7
+msgid "Review List"
+msgstr ""
+
+#: templates/admin/pages/reviews/list-page.php:12
+msgid "Post Type"
+msgstr ""
+
+#: templates/admin/pages/reviews/list-page.php:26
+msgid "Search reviews"
+msgstr ""
+
+#: templates/admin/pages/reviews/list-page.php:138
+msgid "Edit Review"
+msgstr ""
+
+#: templates/admin/pages/reviews/list-page.php:177
+msgid "Name:"
+msgstr ""
+
+#: templates/admin/pages/reviews/list-page.php:178
+msgid "Step:"
+msgstr ""
+
+#: templates/admin/pages/reviews/list-page.php:179
+msgid "Max:"
+msgstr ""
+
+#: templates/admin/pages/reviews/list-page.php:180
+msgid "Value:"
+msgstr ""
+
+#: templates/admin/pages/reviews/list-page.php:181
+msgid "Rating:"
+msgstr ""
+
+#: templates/admin/pages/reviews/list-page.php:189
+msgid "Review info"
+msgstr ""
+
+#: templates/admin/pages/reviews/list-page.php:203
+msgid "Date:"
+msgstr ""
+
+#: templates/admin/pages/reviews/list-page.php:206
+msgid "Post Type:"
+msgstr ""
+
+#: templates/admin/pages/reviews/list-page.php:209
+msgid "Assigned to:"
+msgstr ""
+
+#: templates/admin/pages/reviews/list-page.php:212
+msgid "Review Type:"
+msgstr ""
+
+#: templates/admin/pages/reviews/list-page.php:226
+msgid "Save Review Data"
+msgstr ""
+
+#: templates/admin/pages/reviews/list-page.php:242
+msgid "Please confirm review deletion"
+msgstr ""
+
+#: templates/admin/pages/reviews/types-page.php:12
+msgid "Add New"
+msgstr ""
+
+#: templates/admin/pages/reviews/types-page.php:19
+msgid "No Types found"
+msgstr ""
+
+#: templates/admin/pages/reviews/types-page.php:28
+msgid "Slug"
+msgstr ""
+
+#: templates/admin/pages/reviews/types-page.php:46
+msgid "Edit Fields"
+msgstr ""
+
+#: templates/admin/pages/reviews/types-page.php:65
+msgid "Add Type"
+msgstr ""
+
+#: templates/admin/pages/reviews/types-page.php:73
+msgid "Add New Review Type"
+msgstr ""
+
+#: templates/admin/pages/reviews/types-page.php:83
+msgid "Enter review type name"
+msgstr ""
+
+#: templates/admin/pages/reviews/types-page.php:93
+msgid "Type Fields"
+msgstr ""
+
+#: templates/admin/pages/reviews/types-page.php:94
+msgid "Review type fields"
+msgstr ""
+
+#: templates/admin/pages/reviews/types-page.php:123
+#: templates/admin/pages/reviews/types-page.php:203
+msgid "Step"
+msgstr ""
+
+#: templates/admin/pages/reviews/types-page.php:163
+msgid "Edit Review Fields"
+msgstr ""
+
+#: templates/admin/pages/reviews/types-page.php:237
+msgid "Please confirm type deletion"
+msgstr ""
+
+#: templates/admin/pages/settings/settings-page.php:28
+msgid "Use review for post type"
+msgstr ""
+
+#: templates/admin/pages/settings/settings-page.php:29
+msgid "Allow this type of post to use JetReviews"
+msgstr ""
+
+#: templates/admin/pages/settings/settings-page.php:50
+msgid "Review type"
+msgstr ""
+
+#: templates/admin/pages/settings/settings-page.php:51
+msgid "Choose review type for post type"
+msgstr ""
+
+#: templates/admin/pages/settings/settings-page.php:60
+msgid "Allowed roles"
+msgstr ""
+
+#: templates/admin/pages/settings/settings-page.php:71
+msgid "Review author verification type"
+msgstr ""
+
+#: templates/admin/pages/settings/settings-page.php:72
+msgid "Choose review author verification label type"
+msgstr ""
+
+#: templates/admin/pages/settings/settings-page.php:81
+msgid "New review approval"
+msgstr ""
+
+#: templates/admin/pages/settings/settings-page.php:82
+msgid "Need admin approval for a new review"
+msgstr ""
+
+#: templates/admin/pages/settings/settings-page.php:92
+msgid "Allow comments"
+msgstr ""
+
+#: templates/admin/pages/settings/settings-page.php:93
+msgid "Allow review comments for this type of post"
+msgstr ""
+
+#: templates/admin/pages/settings/settings-page.php:103
+msgid "New review comments need approval"
+msgstr ""
+
+#: templates/admin/pages/settings/settings-page.php:104
+msgid "Need admin approval for a new review comment"
+msgstr ""
+
+#: templates/admin/pages/settings/settings-page.php:114
+msgid "Allow review approval actions"
+msgstr ""
+
+#: templates/admin/pages/settings/settings-page.php:115
+msgid "Allow likes/dislikes for review items for this type of post"
+msgstr ""
+
+#: templates/jet-reviews/global/form.php:20
+msgid "Leave a review"
+msgstr ""
+
+#: templates/jet-reviews/global/form.php:54
+msgid "Description"
+msgstr ""
+
+#: templates/jet-reviews/global/form.php:59
+msgid "Submit Review"
+msgstr ""
