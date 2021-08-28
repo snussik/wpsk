@@ -22,6 +22,10 @@ set_time_limit(6000);
 
 define('WP_MEMORY_LIMIT', '2048M');
 
+// This enables debugging.
+define( 'WP_DEBUG', true );
+
+
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 define( 'DB_NAME', 'exampledb');
