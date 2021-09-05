@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="158px" height="51px" viewBox="0 0 158 51" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>logo-bookmark</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="logo-bookmark" transform="translate(0.000000, -2.000000)">
+            <g id="Драгметаллов" transform="translate(17.658464, 13.149920)" fill="#302F2F" font-family="Bookerly-Bold, Bookerly" font-size="18.7855998" font-weight="bold">
+                <text>
+                    <tspan x="0.187855998" y="20">Драгметаллов</tspan>
+                </text>
+            </g>
+            <path d="M25.3605598,2.25427198 C34.7978109,2.25427198 43.0311046,7.40902629 47.3984391,15.0565332 L40.7429231,18.384256 C37.571661,13.215929 31.868704,9.76851191 25.3605598,9.76851191 C15.4005595,9.76851191 7.32638393,17.8426874 7.32638393,27.8026877 C7.32638393,37.762688 15.4005595,45.8368636 25.3605598,45.8368636 C32.4079736,45.8368636 38.5112348,41.7944659 41.478113,35.9019011 L47.9565626,39.1409691 C43.7591571,47.3531876 35.2164264,52.9753915 25.3605598,52.9753915 C11.3543094,52.9753915 0,41.6210823 0,27.6148317 C0,13.6085813 11.3543094,2.25427198 25.3605598,2.25427198 Z" id="Combined-Shape" fill="#5267DF" fill-rule="nonzero"></path>
+            <path d="M25.5484158,9.76851193 C32.2923652,9.76851193 38.1806357,13.4321081 41.3315782,18.8776506 L36.5465515,21.2703706 C34.257498,17.6056586 30.1876727,15.1676325 25.5484158,15.1676325 C18.3919711,15.1676325 12.5905265,20.9690771 12.5905265,28.1255218 C12.5905265,35.2819664 18.3919711,41.083411 25.5484158,41.083411 C30.6344013,41.083411 35.0360106,38.1532482 37.1571944,33.8889718 L41.812503,36.2164042 C38.8068552,42.1473977 32.652372,46.2125756 25.5484158,46.2125756 C15.4846655,46.2125756 7.32638393,38.0542939 7.32638393,27.9905438 C7.32638393,17.9267935 15.4846655,9.76851193 25.5484158,9.76851193 Z" id="Combined-Shape" stroke="#FFFFFF" stroke-width="0.536912752" fill="#FA5959" fill-rule="nonzero" transform="translate(24.569443, 27.990544) rotate(-8.000000) translate(-24.569443, -27.990544) "></path>
+            <g id="СПРАВОЧНИК" transform="translate(48.091136, 0.000000)" fill="#5267DF" font-family="Bookerly-Bold, Bookerly" font-size="11.2713599" font-weight="bold">
+                <text>
+                    <tspan x="0" y="12">СПРАВОЧНИК</tspan>
+                </text>
+            </g>
+            <g id="содержания" transform="translate(54.102527, 7.514240)" fill="#FA5959" font-family="Bookerly-Bold, Bookerly" font-size="11.2713599" font-weight="bold">
+                <text>
+                    <tspan x="0" y="12">содержания</tspan>
+                </text>
+            </g>
+            <g id="https://dragmet.ru" transform="translate(54.102527, 36.819776)" fill="#575151" font-family="Bookerly-Bold, Bookerly" font-size="9.01708791" font-weight="bold">
+                <text>
+                    <tspan x="0" y="10">https://dragmet.ru</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
